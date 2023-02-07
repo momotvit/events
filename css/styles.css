@@ -1,0 +1,20 @@
+* {
+    color: blue;
+
+}
+
+.page__link {
+    text-decoration: none;
+}
+
+
+.btn__backtomain {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    text-decoration: none;
+    color: brown;
+
+}
