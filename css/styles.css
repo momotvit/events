@@ -3,6 +3,16 @@
 
 }
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 1rem;
+    text-align: center;
+}
+
 .page__link {
     text-decoration: none;
 }
