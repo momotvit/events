@@ -22,7 +22,14 @@ form.addEventListener("submit", (event) => {
 // });
 
 
-document.addEventListener("keydown", event => {
-  console.log("key: ", event.key);
-  console.log("code: ", event.code);
-});
+// document.addEventListener("keydown", event => {
+//   console.log("key: ", event.key);
+//   console.log("code: ", event.code);
+// });
+
+
+
+////////////////////////////////////key code/////////////////////////////
+
+
+
